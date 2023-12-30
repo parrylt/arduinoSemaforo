@@ -1,5 +1,5 @@
 # arduinoSemaforo
-um projeto de arduino com um semáforo que fica aberto toda hora e só fechar quando pedestre aperta o botão.
+um projeto de arduino com um semáforo que fica aberto toda hora e só fechar quando pedestre aperta o botão. Atividade de Sistemas Embarcados da Etec de Guarulhos.
 <br>
 <div align="center">
   <h3>Um semáforo feito no arduino pelo tinkercad para a atividade de sistemas embarcados na ETEC.</h3>
